@@ -10,7 +10,7 @@
 
 欢迎加入我们的 Telegram 群组进行交流讨论：
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-OpenStrm%20Group-blue?style=for-the-badge&logo=telegram)](https://t.me/+N2jM7mnnPzc1YmI1)
+[![Telegram Group](https://img.shields.io/badge/Telegram-OpenStrm%20Group-blue?style=for-the-badge&logo=telegram)](https://t.me/strm_cayflow)
 ## 更新日志
 **2026-05-06**  
 * v1.0.1  
