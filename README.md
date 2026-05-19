@@ -109,6 +109,7 @@ services:
 | /opt/115strm/data | /app/data| 容器数据存放路径 |
 | /opt/115strm/config.json | /app/config.json | 容器各项配置储存路径 |
 
+*  运行容器前确保映射路径有config.json这个文件，如果没有务必创建一个同名空文件，会自动写入
 ---
 ###  首次配置
 1.  **登录**：使用默认或配置的账号密码登录。
