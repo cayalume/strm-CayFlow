@@ -10,7 +10,7 @@
 - [embyExternalUrl](https://github.com/bpking1/embyExternalUrl)
 ## 💬 交流群组
 
-欢迎加入我们的 Telegram 群组进行交流讨论：
+欢迎加入 Telegram 群组进行交流反馈：
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-OpenStrm%20Group-blue?style=for-the-badge&logo=telegram)](https://t.me/strm_cayflow)
 ## 基本信息
@@ -19,6 +19,21 @@
 - 默认账号:admin 密码:admin
 - 配置教程:[wiki](https://github.com/cayalume/strm-CayFlow/wiki)
 ## 更新日志
+**2026-06-02**
+- v1.0.3
+- 新增媒体总览页面：
+  - 调用emby api获取媒体库电影/剧集类型总数
+  - 获取今日/昨日新增影片/剧集总数
+  - 获取昨日新增/最近添加影片/剧集详情展示在卡片中
+- 新增tg机器人菜单：
+  - 支持调用机器人进行同步/刮削任务
+  - 支持云下载,将磁力/ed2k直接发送给机器人即可
+  - 更多功能前往机器人查看
+- 同步任务：
+  - 新增同步完成后刷新指定媒体库
+- 优化：
+  - 弃用原css方案,重构所有页面ui
+  - 移除对cd2等挂载软件依赖,现在同步/刮削目录中复制/上传/移动元数据将调用api进行任务
 
 **2026-05-22**  
 -  v1.0.2  
