@@ -17,6 +17,7 @@
 - 容器默认端口:8092
 - emby代理端口:8091
 - 默认账号:admin 密码:admin
+- cookie获取(推荐):[115不大助手](https://greasyfork.org/zh-CN/scripts/474231-115不大助手-full?locale_override=1)
 - 配置教程:[wiki](https://github.com/cayalume/strm-CayFlow/wiki)
 ## 更新日志
 **2026-06-02**
