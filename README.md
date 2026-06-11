@@ -20,8 +20,15 @@
 - cookie获取(推荐):[115不大助手](https://greasyfork.org/zh-CN/scripts/474231-115不大助手-full?locale_override=1)
 - 配置教程:[wiki](https://github.com/cayalume/strm-CayFlow/wiki)
 ## 更新日志
+**2026-06-11**
+- v1.0.4
+
+- 媒体总览页面新增缺失剧集卡片
+- 优化刮削脚本
+
 **2026-06-02**
 - v1.0.3
+
 - 新增媒体总览页面：
   - 调用emby api获取媒体库电影/剧集类型总数
   - 获取今日/昨日新增影片/剧集总数
