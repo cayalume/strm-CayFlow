@@ -11,8 +11,7 @@
 ## 💬 交流群组
 
 欢迎加入 Telegram 群组进行交流反馈：
-
-[![Telegram Group](https://img.shields.io/badge/Telegram-OpenStrm%20Group-blue?style=for-the-badge&logo=telegram)](https://t.me/strm_cayflow)
+[Strm-CayFlow](https://t.me/strm_cayflow)
 ## 基本信息
 - 容器默认端口:8092
 - emby代理端口:8091
