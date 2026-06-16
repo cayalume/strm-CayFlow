@@ -20,6 +20,11 @@
 - cookie获取(推荐):[115不大助手](https://greasyfork.org/zh-CN/scripts/474231-115不大助手-full?locale_override=1)
 - 配置教程:[wiki](https://github.com/cayalume/strm-CayFlow/wiki)
 ## 更新日志
+**2026-06-16**
+- v1.0.5
+
+- 移除alist/openlist依赖并移除整个302配置页面，现在将直接通过api获取直链重定向播放
+
 **2026-06-11**
 - v1.0.4
 
