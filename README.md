@@ -19,6 +19,15 @@
 - cookie获取(推荐):[115不大助手](https://greasyfork.org/zh-CN/scripts/474231-115不大助手-full?locale_override=1)
 - 配置教程:[wiki](https://github.com/cayalume/strm-CayFlow/wiki)
 ## 更新日志
+**2026-07-07**
+  - v1.0.6
+  - 新增支持arm/amd双平台架构
+- 新增同步下载时元数据失败重试机制
+- 优化302中间件，内存占用更小
+- 优化刮削脚本减少风控
+- 修复上传文件到网盘失败问题
+- 修复使用机器人添加云下载失败时不显示失败原因
+  
 **2026-06-16**
 - v1.0.5
 
