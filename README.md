@@ -20,7 +20,13 @@
 - cookie获取(推荐):[115不大助手](https://greasyfork.org/zh-CN/scripts/474231-115不大助手-full?locale_override=1)
 - 配置教程:[wiki](https://github.com/cayalume/strm-CayFlow/wiki)
 ## 更新日志
-**2026-07-07**
+**2026-07-78**
+- v1.0.7
+- 同步目录新增strm覆盖选项
+- 同步目录新增目录浏览器
+- 优化同步任务，减少405提示
+  
+**2026-07-08**
   - v1.0.6
   - 新增支持arm/amd双平台架构
 - 新增同步下载时元数据失败重试机制
