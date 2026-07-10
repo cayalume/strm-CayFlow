@@ -20,6 +20,13 @@
 - cookie获取(推荐):[115不大助手](https://greasyfork.org/zh-CN/scripts/474231-115不大助手-full?locale_override=1)
 - 配置教程:[wiki](https://github.com/cayalume/strm-CayFlow/wiki)
 ## 更新日志
+**2026-07-10**
+- v1.0.9
+- 修复通知渠道某些情况保存写入失败问题
+- 优化任务失败提示
+- 优化302服务，cookie每次变化都会重启服务，避免提取直链失败
+- 优化通知渠道，每次保存配置都会重启机器人，避免提示权限不足
+  
 **2026-07-09**
 - v1.0.8
 - 新增全量/增量同步模式：
