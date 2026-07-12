@@ -2,8 +2,6 @@
 
 🚀 Emby/Jellyfin 媒体库自动化管理工具。本项目提供了一个优雅的 Web 界面，用于管理Strm文件生成、Emby管理、刮削视频以及媒体库同步任务。
 
-免费项目，源码未上传至github，请自行用docker命令向docker仓库拉取镜像。
-
 ---
 本项目依赖以下项目： 
 - [p115client](https://github.com/ChenyangGao/p115client/)
