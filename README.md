@@ -18,6 +18,14 @@
 - cookie获取(推荐):[115不大助手](https://greasyfork.org/zh-CN/scripts/474231-115不大助手-full?locale_override=1)
 - 配置教程:[wiki](https://github.com/cayalume/strm-CayFlow/wiki)
 ## 更新日志
+**2026-08-02**
+- v1.1.0
+- 新增分享生成strm选项
+  - 不占用网盘空间
+  - 不需要转存文件
+  - 仅通过分享链接即可实现302重定向播放
+- 优化刮削流程
+  
 **2026-07-10**
 - v1.0.9
 - 修复通知渠道某些情况保存写入失败问题
