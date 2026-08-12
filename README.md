@@ -5,7 +5,7 @@
 ---
 本项目依赖以下项目： 
 - [p115client](https://github.com/ChenyangGao/p115client/)
-- [embyExternalUrl](https://github.com/bpking1/embyExternalUrl)
+  
 ## 💬 交流群组
 
 欢迎加入 Telegram 群组进行交流反馈：
@@ -21,6 +21,23 @@
 ## 更新日志
 
 <details open>
+  <summary> 2026-08-12</summary>
+  
+- v1.1.2
+- 新增数据面板页面：
+  * 实时监听各种事件
+  * 原媒体总览页面新增媒体卡片移动至此
+- 新增ed2k生成页面：
+  - 流式在线计算网盘文件ed2k，不占用本地空间
+- 每个任务卡片新增进度条，监控卡片数据实时刷新
+- 同步设置新增文件大小对比选项，仅全量同步生效
+- 移除embyExternalUrl依赖，自写播放中间件
+- 媒体库刷新通知、日志id改为库名
+- 优化刮削、同步任务结束后内存不立即释放问题
+- 大幅优化重构ui，减少内存占用
+</details>
+
+<details>
   <summary> 2026-08-03</summary>
   
 - v1.1.1
