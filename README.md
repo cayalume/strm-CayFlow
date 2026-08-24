@@ -21,6 +21,14 @@
 ## 更新日志
 
 <details open>
+  <summary> 2026-08-25</summary>
+  
+- v1.1.7
+- 修复某些情况下302播放会走服务器流量
+- 优化播放中间件，提高起播速度
+</details>
+
+<details>
   <summary> 2026-08-24</summary>
   
 - v1.1.6
