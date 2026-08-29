@@ -8,8 +8,11 @@
   
 ## 💬 交流群组
 
-欢迎加入 Telegram 群组进行交流反馈：
+欢迎加入群组进行交流反馈：
+telegram:
 [Strm-CayFlow](https://t.me/strm_cayflow)
+QQ群：
+.[Strm-CayFlow](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=UzkYjqUct07UdimHj8gQk8U9fQKwJxum&authKey=YuNj2dkM1sa7BZDhrEuBK7N9euZaqM1cJtmVjogrnW2GAQ3iekJ8xHBKnXAU8wi7&noverify=0&group_code=1109333617)
 ## 基本信息
 - 容器默认端口:8092
 - emby代理端口:8091
