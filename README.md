@@ -16,12 +16,23 @@ QQ群：[Strm-CayFlow](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=UzkYjqUct07Udim
 - emby代理端口:8091
 - 默认账号:admin 密码:admin
 - 容器支持arm/amd双平台架构
-- cookie获取(推荐):[115不大助手](https://greasyfork.org/zh-CN/scripts/474231-115不大助手-full?locale_override=1)
 - 配置教程:[wiki](https://github.com/cayalume/strm-CayFlow/wiki)
 
 ## 更新日志
 
 <details open>
+  <summary> 2026-09-02</summary>
+  
+- v1.1.8
+- 账号添加改为扫码自动获取cookie
+- 新增影视订阅页面
+   - 支持夸克网盘资源转ed2k链接再上传至115，如网盘内无ed2k资源自动回退至流式/分片上传
+   - 目前仅支持观影内数据订阅
+- 修复ed2k生成页面频繁获取直链导致封控问题
+- 修复番剧订阅各种刮削失败问题
+</details>
+
+<details>
   <summary> 2026-08-25</summary>
   
 - v1.1.7
