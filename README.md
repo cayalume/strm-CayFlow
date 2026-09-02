@@ -289,14 +289,6 @@ QQ群：[Strm-CayFlow](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=UzkYjqUct07Udim
 
 ---
 
-
-## 💡 常见问题
-
-**Q: 如何获取 115 Cookie？**
-> A: 在浏览器登录 115 网盘，按 F12 打开控制台，在 Application (应用) 或 Storage (存储) 标签页中找到 Cookie，复制 `UID`, `CID`, `SEID` 等字段。
-
----
-
 ## 📄 许可证
 
 本项目基于 [MIT License](./LICENSE) 许可证。
