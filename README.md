@@ -21,6 +21,13 @@ QQ群：[Strm-CayFlow](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=UzkYjqUct07Udim
 ## 更新日志
 
 <details open>
+  <summary> 2026-09-03</summary>
+  
+- v1.1.9
+- 修复观影登录失败问题
+</details>
+
+<details>
   <summary> 2026-09-02</summary>
   
 - v1.1.8
