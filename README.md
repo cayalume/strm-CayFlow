@@ -21,6 +21,15 @@ QQ群：[Strm-CayFlow](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=UzkYjqUct07Udim
 ## 更新日志
 
 <details open>
+  <summary> 2026-10-19</summary>
+  
+- v1.2.1
+- 优化刮削流程
+- 优化订阅逻辑
+- 观影订阅新增自定义夸克资源链接，优先使用此链接进行追更
+</details>
+
+<details>
   <summary> 2026-09-12</summary>
   
 - v1.2.0
