@@ -1,4 +1,4 @@
-<h1 align="center">StrmFlow</h1>
+<h1 align="center">Strm-CayFlow</h1>
 
 <p align="center">
   <b>115 网盘 · STRM · Emby 一站式自动化面板</b><br>
@@ -10,9 +10,10 @@
   <a href="https://hub.docker.com/r/cayalume/strm-cayflow"><img src="https://img.shields.io/docker/pulls/cayalume/strm-cayflow?label=pulls&logo=docker&logoColor=white&color=2496ed" alt="docker pulls"></a>
   <a href="https://hub.docker.com/r/cayalume/strm-cayflow/tags"><img src="https://img.shields.io/docker/image-size/cayalume/strm-cayflow/latest?label=image%20size" alt="image size"></a>
   <img src="https://img.shields.io/badge/version-v1.2.1-blue" alt="version">
-  <img src="https://img.shields.io/badge/updated-2026--10--19-brightgreen" alt="updated">
-  <img src="https://img.shields.io/badge/arch-amd64%20%7C%20arm64-informational" alt="arch">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="license">
+  <img src="https://img.shields.io/badge/updated-2026--10--19-brightgreen" alt="更新日期">
+  <img src="https://img.shields.io/badge/arch-amd64%20%7C%20arm64-informational" alt="支持架构">
+  <a href="https://t.me/strm_cayflow"><img src="https://img.shields.io/badge/Telegram-交流群-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://qm.qq.com/cgi-bin/qm/qr?...&group_code=1109333617"><img src="https://img.shields.io/badge/QQ群-1109333617-12B7F5?logo=tencentqq&logoColor=white" alt="QQ群"></a>
 </p>
 
 <p align="center">
